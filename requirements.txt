@@ -1,0 +1,17 @@
+datasets
+pandas
+numpy
+seaborn
+matplotlib
+librosa
+keras
+transformers
+jiwer
+evaluate
+nltk
+dataclasses
+typing
+sklearn
+tensorflow
+
+# https://huggingface.co/openai/whisper-large-v3
