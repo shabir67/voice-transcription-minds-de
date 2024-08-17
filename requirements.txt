@@ -13,5 +13,4 @@ dataclasses
 typing
 sklearn
 tensorflow
-
-# https://huggingface.co/openai/whisper-large-v3
+audiomentations
